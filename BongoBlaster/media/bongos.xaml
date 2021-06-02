@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is compatible with Silverlight-->
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg250" Width="858" Height="680">
+  <Canvas.RenderTransform>
+    <TranslateTransform X="0" Y="0"/>
+  </Canvas.RenderTransform>
+  <Canvas.Resources>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="paint0_linear" MappingMode="Absolute" StartPoint="659,411" EndPoint="659,556">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#00767676"/>
+          <GradientStop Color="#00767676" Offset="0.0708332"/>
+          <GradientStop Color="#767676" Offset="0.0720089"/>
+          <GradientStop Color="#767676" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+    </LinearGradientBrush>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="paint1_linear" MappingMode="Absolute" StartPoint="659,326" EndPoint="659,471">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#00767676"/>
+          <GradientStop Color="#00767676" Offset="0.0708332"/>
+          <GradientStop Color="#767676" Offset="0.0720089"/>
+          <GradientStop Color="#767676" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+    </LinearGradientBrush>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="paint2_linear" MappingMode="Absolute" StartPoint="659,240" EndPoint="659,295">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#00767676"/>
+          <GradientStop Color="#00767676" Offset="0.106241"/>
+          <GradientStop Color="#767676" Offset="0.106862"/>
+          <GradientStop Color="#767676" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+    </LinearGradientBrush>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="paint3_linear" MappingMode="Absolute" StartPoint="199,411" EndPoint="199,556">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#00767676"/>
+          <GradientStop Color="#00767676" Offset="0.0708332"/>
+          <GradientStop Color="#767676" Offset="0.0720089"/>
+          <GradientStop Color="#767676" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+    </LinearGradientBrush>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="paint4_linear" MappingMode="Absolute" StartPoint="199,326" EndPoint="199,471">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#00767676"/>
+          <GradientStop Color="#00767676" Offset="0.0708332"/>
+          <GradientStop Color="#767676" Offset="0.0720089"/>
+          <GradientStop Color="#767676" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+    </LinearGradientBrush>
+    <LinearGradientBrush xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" x:Key="paint5_linear" MappingMode="Absolute" StartPoint="199,240" EndPoint="199,295">
+      <LinearGradientBrush.GradientStops>
+        <GradientStopCollection>
+          <GradientStop Color="#00767676"/>
+          <GradientStop Color="#00767676" Offset="0.106241"/>
+          <GradientStop Color="#767676" Offset="0.106862"/>
+          <GradientStop Color="#767676" Offset="1"/>
+        </GradientStopCollection>
+      </LinearGradientBrush.GradientStops>
+    </LinearGradientBrush>
+  </Canvas.Resources>
+  <!--Unknown tag: metadata-->
+  <!--Unknown tag: sodipodi:namedview-->
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path133" Fill="#FFFFFDCF" StrokeThickness="2" Stroke="#FF767676" Data="M430.351 4.47504L429.5 3.09508L428.649 4.47504L414.543 27.3453L396.703 7.14298L395.629 5.92643L395.025 7.43302L385.059 32.3107L363.999 15.3599L362.731 14.3392L362.393 15.9317L356.852 42.0989L333.18 28.889L331.752 28.0922L331.693 29.7263L330.733 56.4292L305.133 47.3407L303.583 46.7905L303.808 48.4195L307.454 74.8901L280.665 70.1835L279.035 69.8973L279.539 71.473L287.685 96.9513L260.478 96.7601L258.815 96.7484L259.585 98.2231L271.995 121.979L245.155 126.306L243.504 126.572L244.519 127.9L260.836 149.252L235.134 157.971L233.546 158.509L234.775 159.65L254.531 177.987L230.704 190.844L229.226 191.642L230.632 192.561L253.261 207.355L231.992 223.981L230.669 225.015L232.208 225.685L257.062 236.512L238.961 256.428L237.834 257.667L239.46 258.071L265.826 264.618L251.411 287.253L250.515 288.66L252.178 288.787L279.299 290.863L268.984 315.568L268.345 317.099L269.997 316.949L297.093 314.492L291.175 340.56L290.81 342.168L292.405 341.748L318.695 334.826L317.346 361.509L317.264 363.146L318.757 362.47L343.483 351.281L346.745 377.812L346.944 379.431L348.297 378.519L370.744 363.384L378.526 388.999L378.998 390.553L380.173 389.431L399.694 370.787L411.773 394.748L412.503 396.196L413.469 394.893L429.5 373.279L445.531 394.893L446.497 396.196L447.227 394.748L459.306 370.787L478.827 389.431L480.002 390.553L480.474 388.999L488.256 363.384L510.703 378.519L512.056 379.431L512.255 377.812L515.517 351.281L540.243 362.47L541.736 363.146L541.654 361.509L540.305 334.826L566.595 341.748L568.19 342.168L567.825 340.56L561.907 314.492L589.003 316.949L590.655 317.099L590.016 315.568L579.701 290.863L606.822 288.787L608.485 288.66L607.589 287.253L593.174 264.618L619.54 258.071L621.166 257.667L620.039 256.428L601.938 236.512L626.792 225.685L628.331 225.015L627.008 223.981L605.739 207.355L628.368 192.561L629.774 191.642L628.296 190.844L604.469 177.987L624.225 159.65L625.454 158.509L623.866 157.971L598.164 149.252L614.481 127.9L615.496 126.572L613.845 126.306L587.005 121.979L599.415 98.2231L600.185 96.7484L598.522 96.7601L571.315 96.9513L579.461 71.473L579.965 69.8973L578.335 70.1835L551.546 74.8901L555.192 48.4195L555.417 46.7905L553.867 47.3407L528.267 56.4292L527.307 29.7263L527.248 28.0922L525.82 28.889L502.148 42.0989L496.607 15.9317L496.269 14.3392L495.001 15.3599L473.941 32.3107L463.975 7.43302L463.371 5.92643L462.297 7.14298L444.457 27.3453L430.351 4.47504Z"/>
+  <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="379" Canvas.Top="273" Width="100" Height="94" Name="rect135" Fill="#FFEBB690" StrokeThickness="10" Stroke="#FF767676"/>
+  <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="379" Canvas.Top="323" Width="100" Height="141" Name="rect137" Fill="#FFDA996B" StrokeThickness="10" Stroke="#FF767676"/>
+  <Canvas Name="g143" Effect="{StaticResource filter0_d}">
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="409" Canvas.Top="344" Width="40" Height="40" Name="circle139" Fill="#FFDE9866"/>
+    <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="410.5" Canvas.Top="345.5" Width="37" Height="37" Name="circle141" StrokeThickness="3" Stroke="#FF767676"/>
+  </Canvas>
+  <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="428.5" Y1="290.5" X2="428.5" Y2="295.5" Name="line145" StrokeThickness="5" Stroke="#FF767676" StrokeLineJoin="Round" StrokeStartLineCap="Round" StrokeEndLineCap="Round"/>
+  <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="436.5" Y1="290.5" X2="436.5" Y2="295.5" Name="line147" StrokeThickness="5" Stroke="#FF767676" StrokeLineJoin="Round" StrokeStartLineCap="Round" StrokeEndLineCap="Round"/>
+  <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="420.5" Y1="290.5" X2="420.5" Y2="295.5" Name="line149" StrokeThickness="5" Stroke="#FF767676" StrokeLineJoin="Round" StrokeStartLineCap="Round" StrokeEndLineCap="Round"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path151" Fill="#FFDA996B" StrokeThickness="10" Stroke="#FF767676" Data="M844 489.5C844 526.924 823.786 561.186 790.35 586.263C756.913 611.341 710.49 627 659 627C607.51 627 561.087 611.341 527.65 586.263C494.214 561.186 474 526.924 474 489.5C474 452.076 494.214 417.814 527.65 392.737C561.087 367.659 607.51 352 659 352C710.49 352 756.913 367.659 790.35 392.737C823.786 417.814 844 452.076 844 489.5Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path153" Fill="#FFDA996B" StrokeThickness="10" Stroke="#FF767676" Data="M470.466 245.576C470.692 242.95 470.89 240.739 471.05 239H846.997C847.148 240.504 847.331 242.37 847.538 244.571C848.144 251.026 848.953 260.352 849.762 271.81C851.382 294.731 853 326.154 853 360.184C853 394.149 850.514 429.935 848.021 457.273C846.775 470.931 845.529 482.46 844.595 490.57C844.196 494.04 843.853 496.884 843.593 499H474.455C474.189 496.653 473.831 493.43 473.409 489.484C472.474 480.738 471.227 468.446 469.981 454.263C467.485 425.866 465 390.019 465 359.918C465 329.753 466.617 298.398 468.238 274.556C469.049 262.642 469.859 252.618 470.466 245.576Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path155" Fill="#FFDA996B" Data="M478.5 491L839.5 491.5L838 504H480L478.5 491Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path157" StrokeThickness="9" Stroke="{StaticResource paint0_linear}" Data="M851.401 415.5C849.852 450.639 830.203 484.461 795.633 509.906C759.566 536.453 710.427 551.5 659 551.5C607.573 551.5 558.434 536.453 522.367 509.906C487.797 484.461 468.148 450.639 466.599 415.5L851.401 415.5Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path159" StrokeThickness="9" Stroke="{StaticResource paint1_linear}" Data="M853.4 330.5C851.835 365.62 831.995 399.441 797.064 424.894C760.621 451.447 710.967 466.5 659 466.5C607.033 466.5 557.379 451.447 520.936 424.894C486.005 399.441 466.165 365.62 464.6 330.5L853.4 330.5Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path161" Fill="#ffffff" StrokeThickness="16" Stroke="#FF767676" Data="M844 244.75C844 281.639 824.082 315.646 790.672 340.704C757.258 365.764 710.732 381.5 659 381.5C607.268 381.5 560.742 365.764 527.328 340.704C493.918 315.646 474 281.639 474 244.75C474 207.861 493.918 173.854 527.328 148.796C560.742 123.736 607.268 108 659 108C710.732 108 757.258 123.736 790.672 148.796C824.082 173.854 844 207.861 844 244.75Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path163" StrokeThickness="4" Stroke="{StaticResource paint2_linear}" Data="M849.853 242C849.017 247.691 844.603 253.602 836.175 259.4C826.818 265.837 812.917 271.84 794.923 276.967C758.958 287.217 710.063 293 659 293C607.937 293 559.042 287.217 523.077 276.967C505.084 271.84 491.182 265.837 481.825 259.4C473.397 253.602 468.983 247.691 468.147 242L849.853 242Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path165" Fill="#FFDA996B" StrokeThickness="10" Stroke="#FF767676" Data="M384 489.5C384 526.924 363.786 561.186 330.35 586.263C296.913 611.341 250.49 627 199 627C147.51 627 101.087 611.341 67.6497 586.263C34.2136 561.186 14 526.924 14 489.5C14 452.076 34.2136 417.814 67.6497 392.737C101.087 367.659 147.51 352 199 352C250.49 352 296.913 367.659 330.35 392.737C363.786 417.814 384 452.076 384 489.5Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path167" Fill="#FFDA996B" StrokeThickness="10" Stroke="#FF767676" Data="M10.4659 245.576C10.6923 242.95 10.8905 240.739 11.0499 239H386.997C387.148 240.504 387.331 242.37 387.538 244.571C388.144 251.026 388.953 260.352 389.762 271.81C391.382 294.731 393 326.154 393 360.184C393 394.149 390.514 429.935 388.021 457.273C386.775 470.931 385.529 482.46 384.595 490.57C384.196 494.04 383.853 496.884 383.593 499H14.4552C14.1892 496.653 13.831 493.43 13.4092 489.484C12.4743 480.738 11.2275 468.446 9.98079 454.263C7.48454 425.866 5 390.019 5 359.918C5 329.753 6.61732 298.398 8.23848 274.556C9.0486 262.642 9.85865 252.618 10.4659 245.576Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path169" Fill="#FFDA996B" Data="M18.5 491L379.5 491.5L378 504H20L18.5 491Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path171" StrokeThickness="9" Stroke="{StaticResource paint3_linear}" Data="M391.401 415.5C389.852 450.639 370.203 484.461 335.633 509.906C299.566 536.453 250.427 551.5 199 551.5C147.573 551.5 98.4342 536.453 62.3675 509.906C27.7974 484.461 8.14801 450.639 6.59915 415.5L391.401 415.5Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path173" StrokeThickness="9" Stroke="{StaticResource paint4_linear}" Data="M393.4 330.5C391.835 365.62 371.995 399.441 337.064 424.894C300.621 451.447 250.967 466.5 199 466.5C147.033 466.5 97.3787 451.447 60.9358 424.894C26.0046 399.441 6.16482 365.62 4.60022 330.5L393.4 330.5Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path175" Fill="#ffffff" StrokeThickness="16" Stroke="#FF767676" Data="M384 244.75C384 281.639 364.082 315.646 330.672 340.704C297.258 365.764 250.732 381.5 199 381.5C147.268 381.5 100.742 365.764 67.3284 340.704C33.9177 315.646 14 281.639 14 244.75C14 207.861 33.9177 173.854 67.3284 148.796C100.742 123.736 147.268 108 199 108C250.732 108 297.258 123.736 330.672 148.796C364.082 173.854 384 207.861 384 244.75Z"/>
+  <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path177" StrokeThickness="4" Stroke="{StaticResource paint5_linear}" Data="M389.853 242C389.017 247.691 384.603 253.602 376.175 259.4C366.818 265.837 352.917 271.84 334.923 276.967C298.958 287.217 250.063 293 199 293C147.937 293 99.0418 287.217 63.0765 276.967C45.0835 271.84 31.182 265.837 21.8249 259.4C13.3972 253.602 8.98344 247.691 8.14728 242L389.853 242Z"/>
+</Canvas>

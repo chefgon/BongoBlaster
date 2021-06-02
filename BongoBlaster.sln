@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BongoBlaster", "BongoBlaster\BongoBlaster.csproj", "{3BF1EADE-5567-4316-B4F7-452BBA6713CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF1EADE-5567-4316-B4F7-452BBA6713CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF1EADE-5567-4316-B4F7-452BBA6713CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF1EADE-5567-4316-B4F7-452BBA6713CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF1EADE-5567-4316-B4F7-452BBA6713CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E3A69E-C00C-4E23-83CA-885888A07EB0}
+	EndGlobalSection
+EndGlobal

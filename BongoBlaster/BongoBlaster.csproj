@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="media\bongos.svg" />
+    <None Remove="media\bongos_with_highlights.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Remove="media\bongos.xaml" />
+    <Page Remove="media\bongos_with_highlights.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="2.0.0" />
+    <PackageReference Include="Nefarius.ViGEm.Client" Version="1.17.178" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SharpDX.DirectInput" Version="4.2.0" />
+    <PackageReference Include="SharpDX.XInput" Version="4.2.0" />
+  </ItemGroup>
+
+</Project>
